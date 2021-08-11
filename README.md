@@ -8,6 +8,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 [![Go Report Card](https://goreportcard.com/badge/github.com/ethereum/go-ethereum)](https://goreportcard.com/report/github.com/ethereum/go-ethereum)
 [![Travis](https://travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://travis-ci.com/ethereum/go-ethereum)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fljkt7334%2Fgo-ethereum.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fljkt7334%2Fgo-ethereum?ref=badge_shield)
 
 Automated builds are available for stable releases and the unstable master branch. Binary
 archives are published at https://geth.ethereum.org/downloads/.
@@ -360,3 +361,6 @@ also included in our repository in the `COPYING.LESSER` file.
 The go-ethereum binaries (i.e. all code inside of the `cmd` directory) is licensed under the
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), also
 included in our repository in the `COPYING` file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fljkt7334%2Fgo-ethereum.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fljkt7334%2Fgo-ethereum?ref=badge_large)
